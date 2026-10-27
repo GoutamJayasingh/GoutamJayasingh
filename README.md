@@ -30,18 +30,6 @@
       <sub>Python · MCP · FastMCP</sub>
     </td>
   </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/GoutamJayasingh/Nexus-AI">Nexus-AI</a></h3>
-      Multi-tool AI assistant for documents, spreadsheets, code explanations, and more.<br/>
-      <sub>React · FastAPI · Groq</sub>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/GoutamJayasingh/Interview-Coach-AI">Interview Coach AI</a></h3>
-      AI-assisted technical interview practice with feedback.<br/>
-      <sub>React · FastAPI · SQLAlchemy</sub>
-    </td>
-  </tr>
 </table>
 
 <h2 align="center">GitHub at a Glance</h2>
