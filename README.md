@@ -32,9 +32,9 @@
   </tr>
 </table>
 
-<h2 align="center">Contribution Stats</h2>
+<h2 align="center">GitHub at a Glance</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GoutamJayasingh&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub commits and contribution stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GoutamJayasingh&show_icons=true&hide_border=true" alt="GitHub stats for Goutam Jayasingh" />
 </p>
 
 <p align="center"><em>Learn by building. Improve by shipping.</em></p>
