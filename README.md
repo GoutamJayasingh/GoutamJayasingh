@@ -8,7 +8,8 @@
 
 <p align="center">
   <a href="https://github.com/GoutamJayasingh?tab=repositories">Projects</a> ·
-  <a href="https://github.com/GoutamJayasingh">GitHub</a>
+  <a href="https://github.com/GoutamJayasingh">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/goutam-jayasingh-893855340/">LinkedIn</a>
 </p>
 
 <p align="center">
