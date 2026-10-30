@@ -37,4 +37,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GoutamJayasingh&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
-<p align="center"><em>Learn by building. Improve by shipping.</em></p>
