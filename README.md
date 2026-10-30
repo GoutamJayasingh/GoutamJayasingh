@@ -3,7 +3,6 @@
 <h1 align="center">Goutam Jayasingh</h1>
 <p align="center">
   <strong>Software Engineering · Full-Stack · Backend · Agentic AI</strong><br/>
-  Building useful software and experimenting with AI-powered systems.
 </p>
 
 <p align="center">
